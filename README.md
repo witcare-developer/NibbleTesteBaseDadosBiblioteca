@@ -1,4 +1,4 @@
-Teste para candidato(a) de Programador(a) da Maeda Soluções Técnicas:
+Teste para candidato(a) de Programador(a) da Nibble Soluções em Software:
 
 Prezado candidato(a), obrigado e seja bem vindo(a) ao nosso teste:
 
